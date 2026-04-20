@@ -33,5 +33,5 @@ Here is what I learned after completing the project:
 You need to install ```SFML``` to run the project. I used [this version](https://www.sfml-dev.org/documentation/3.0.2/).
 
 ## 📹 Video
-[Uploading fireworks.mp4…](https://github.com/user-attachments/assets/a4ac013b-99db-4f1c-bf80-a767f42ca4e7
+[Uploading fireworks.mp4…](https://github.com/user-attachments/assets/2b524b7e-12d6-47c3-ac31-ef15c10d31b2
 )
